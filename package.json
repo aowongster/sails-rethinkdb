@@ -1,0 +1,29 @@
+{
+  "name": "sails-rethinkdb",
+  "version": "0.0.0",
+  "description": "RethinkDB adapter for Sails.js",
+  "main": "RethinkDbAdapter.js",
+  "scripts": {
+    "test": "echo \"Adapter should be tested using Sails.js core.\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/balderdashy/sails-adapter-boilerplate.git"
+  },
+  "keywords": [
+    "orm",
+    "waterline",
+    "sails",
+    "sailsjs",
+    "sails.js",
+    "rethinkdb",
+    "reql"
+  ],
+  "author": "Ilya Radchenko",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "async": "0.1.22",
+    "rethinkdb": "~1.11.0-1"
+  }
+}
